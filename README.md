@@ -5,9 +5,9 @@ Another pragraph
 
 code ex
 
-'''
+```
 <p>This is text</p>
-'''
+```
 
 1. This
 2. is
