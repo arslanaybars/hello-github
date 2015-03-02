@@ -21,3 +21,5 @@ http://www.arslanaybars.com/git
 
 [Google](http://www.google.com.tr)
 
+<bold>Faydalı Linkler</bold>
+[Coolors.co](http://app.coolors.co/50514f-71888d-ffeb3b-8f8685-8d796f)
