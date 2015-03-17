@@ -24,4 +24,5 @@ http://www.arslanaybars.com/git
 <strong>Faydalı Linkler</strong>
 
 [Coolors.co](http://app.coolors.co/50514f-71888d-ffeb3b-8f8685-8d796f)
+
 [Google Material Design icons](http://google.github.io/material-design-icons)
