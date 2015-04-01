@@ -8,6 +8,7 @@ code ex
 ```
 <p>This is text</p>
 ```
+<code>print</code>
 
 1. This
 2. is
